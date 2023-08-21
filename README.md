@@ -1,0 +1,1 @@
+# Lambda_Size_of_static_array
